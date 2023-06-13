@@ -1,5 +1,7 @@
 # Userge-spl
 
+#[Join SPL community for playing there](https://t.me/Spoiled_Community)
+
 ## Basic Info and Installation 
 
 > Install userge and fill ocr space api key<br>

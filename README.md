@@ -14,7 +14,7 @@
 > Head over to the [Discussion Group](https://t.me/the_ssc_chat)
 
 ## Credits
-> ✿ UserGe for thier awesome Userbot and ocr codes<br>
-> ✿ SPL community for their games<br>
-> ✿ Alpha for code help<br>
-> ✿ Me for nothing<br>
+> ✿ [UsergeTeam](https://github.com/UsergeTeam) for thier awesome Userbot and ocr codes<br>
+> ✿ [SPL community](https://t.me/Spoiled_Community) for their games<br>
+> ✿ [Alpha](https://t.me/North_Yankton) for code help<br>
+> ✿ Me for nothing

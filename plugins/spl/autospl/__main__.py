@@ -33,7 +33,7 @@ async def autofastly(msg: Message):
     global IS_ENABLED  # pylint: disable=global-statement
     if ocr.OCR_SPACE_API_KEY is None:
         await msg.edit(
-            "<code>Get the OCR API</code> "
+            "<code>Get the OCR API</code> ",
             disable_web_page_preview=True,
             parse_mode=enums.ParseMode.HTML, del_in=0)
         return

@@ -6,7 +6,7 @@ import os
 from pyrogram import enums
 
 from userge import userge, Message, filters, config, get_collection
-from ...utils import ocr
+from .ocr import ocr
 
 IS_ENABLED = False
 IS_ENABLED_FILTER = filters.create(lambda _, __, ___: IS_ENABLED)

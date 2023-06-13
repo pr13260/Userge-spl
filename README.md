@@ -4,7 +4,9 @@
 
 > Install userge and fill ocr space api key<br>
 > then do {CMD_HNDLR}`addrepo https://github.com/pr13260/Userge-spl`<br>
-> and boom YOu have dont it
+> and bOOm You have done it
+> Give this repo a star ⭐️ (Optional)
+
 
 ## Use at Your Risk
 ## [Main Repo](https://github.com/UsergeTeam/Userge) 💡
